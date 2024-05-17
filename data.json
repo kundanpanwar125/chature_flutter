@@ -1,0 +1,129 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Dal Baati Churma",
+        "ingredients": [
+          "Wheat flour",
+          "Split yellow gram (Chana Dal)",
+          "Ghee",
+          "Sugar",
+          "Spices"
+        ],
+        "recipe": "Mix wheat flour with ghee and water to make a dough. Shape into balls and bake. Cook chana dal with spices. Crush the baked balls and mix with ghee and sugar to make churma. Serve dal with baati and churma.",
+        "image": "https://example.com/dal_baati_churma.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Gatte ki Sabzi",
+        "ingredients": [
+          "Gram flour (Besan)",
+          "Yogurt",
+          "Spices",
+          "Oil",
+          "Tomatoes"
+        ],
+        "recipe": "Prepare dough with gram flour and spices, shape into cylinders and boil. Cut into pieces and fry. Cook a gravy with yogurt, spices, and tomatoes. Add the fried gatte to the gravy and simmer.",
+        "image": "https://example.com/gatte_ki_sabzi.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ker Sangri",
+        "ingredients": [
+          "Dried ker berries",
+          "Dried sangri beans",
+          "Spices",
+          "Oil",
+          "Yogurt"
+        ],
+        "recipe": "Soak ker and sangri overnight. Boil them and drain. Cook with spices and yogurt. Serve hot.",
+        "image": "https://example.com/ker_sangri.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Laal Maas",
+        "ingredients": [
+          "Mutton",
+          "Red chilies",
+          "Garlic",
+          "Yogurt",
+          "Spices"
+        ],
+        "recipe": "Marinate mutton with yogurt and spices. Cook red chilies and garlic in oil. Add mutton and cook until tender.",
+        "image": "https://example.com/laal_maas.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Pyaaz Kachori",
+        "ingredients": [
+          "Flour",
+          "Onions",
+          "Spices",
+          "Oil"
+        ],
+        "recipe": "Prepare dough with flour and water. Make a filling with onions and spices. Shape dough into balls, fill with onion mixture, and fry.",
+        "image": "https://example.com/pyaaz_kachori.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mohanthal",
+        "ingredients": [
+          "Gram flour",
+          "Ghee",
+          "Milk",
+          "Sugar",
+          "Cardamom"
+        ],
+        "recipe": "Roast gram flour in ghee. Add milk and cook until thick. Add sugar and cardamom. Spread in a tray and cut into pieces.",
+        "image": "https://example.com/mohanthal.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Kalmi Vada",
+        "ingredients": [
+          "Chana dal",
+          "Spices",
+          "Oil"
+        ],
+        "recipe": "Soak chana dal and grind with spices. Shape into patties and fry.",
+        "image": "https://example.com/kalmi_vada.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Ghevar",
+        "ingredients": [
+          "Flour",
+          "Ghee",
+          "Milk",
+          "Sugar",
+          "Saffron"
+        ],
+        "recipe": "Prepare a batter with flour, ghee, and milk. Deep fry in a mold. Soak in sugar syrup flavored with saffron.",
+        "image": "https://example.com/ghevar.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Bajre ki Roti",
+        "ingredients": [
+          "Bajra flour",
+          "Water",
+          "Ghee"
+        ],
+        "recipe": "Mix bajra flour with water to make a dough. Shape into flatbreads and cook on a griddle. Serve with ghee.",
+        "image": "https://example.com/bajre_ki_roti.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Churma Ladoo",
+        "ingredients": [
+          "Wheat flour",
+          "Ghee",
+          "Sugar",
+          "Cardamom"
+        ],
+        "recipe": "Make dough with wheat flour and ghee, shape into balls and bake. Crush and mix with ghee, sugar, and cardamom. Shape into ladoos.",
+        "image": "https://example.com/churma_ladoo.jpg"
+      }
+    ]
+  }
+  
