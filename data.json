@@ -1,5 +1,4 @@
-{
-    "recipes": [
+[
       {
         "id": 1,
         "name": "Dal Baati Churma",
@@ -125,5 +124,5 @@
         "image": "https://example.com/churma_ladoo.jpg"
       }
     ]
-  }
+]
   
